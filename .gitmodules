@@ -1,0 +1,3 @@
+[submodule "open_thymus_segmentator"]
+	path = open_thymus_segmentator
+	url = https://github.com/vprudente/open_thymus_segmentator.git
