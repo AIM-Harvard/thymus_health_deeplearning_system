@@ -1,3 +1,7 @@
 [submodule "open_thymus_segmentator"]
 	path = open_thymus_segmentator
 	url = https://github.com/vprudente/open_thymus_segmentator.git
+[submodule "ssl_thymus_quantification"]
+	path = ssl_thymus_quantification
+	url = https://github.com/AIM-Harvard/ssl_thymus_quantification
+	branch = public_release
