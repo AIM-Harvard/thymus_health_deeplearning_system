@@ -1,0 +1,34 @@
+TY  - JOUR
+AU  - Bernatz, Simon
+AU  - Prudente, Vasco
+AU  - Pai, Suraj
+AU  - Attermann, Asbjørn K.
+AU  - Di Federico, Alessandro
+AU  - Rowan, Andrew
+AU  - Veeriah, Selvaraju
+AU  - Dyrskjøt, Lars
+AU  - Nürnberg, Leonard
+AU  - Alessi, Joao V.
+AU  - Ott, Patrick A.
+AU  - Sharon, Elad
+AU  - Hackshaw, Allan
+AU  - McGranahan, Nicholas
+AU  - Abbosh, Christopher
+AU  - Mak, Raymond H.
+AU  - Bitterman, Danielle
+AU  - Awad, Mark
+AU  - Ricciuti, Biagio
+AU  - Swanton, Charles
+AU  - Jamal-Hanjani, Mariam
+AU  - Birkbak, Nicolai J.
+AU  - Aerts, Hugo J. W. L.
+PY  - 2026
+DA  - 2026/03/18
+TI  - Thymic health and immunotherapy outcomes in patients with cancer
+JO  - Nature
+AB  - Although immunotherapy has revolutionized cancer treatment, many patients still experience limited benefit, highlighting the urgent need for improved biomarkers1. Although immunotherapy is founded on unleashing T cells2, most existing biomarkers remain tumour-centric and mainly overlook host immune competence. The thymus is a key immune organ that is crucial for T cell maturation, and we hypothesized that thymic functionality is associated with immunotherapy outcomes3. Here we show that thymic health, a radiographic measure of thymic functionality, is strongly associated with immunotherapy outcomes across several cancer types. Using a deep-learning framework applied to routine computed tomography images, we quantified thymic health in a pan-cancer cohort of 3,476 patients receiving immune checkpoint inhibitors. In patients with non-small cell lung cancer, higher thymic health was associated with reduced risks of progression and all-cause mortality. These associations remained significant across clinically relevant levels of programmed death ligand 1 (PD-L1) and tumour mutation burden. In the prospective TRACERx lung cancer study, thymic health was positively associated with T cell receptor diversity and T cell receptor excision circles, and correlated with immune-system signalling pathways, supporting radiographic thymic health as a proxy for thymic activity and adaptive immune competence. Analysis across patients with melanoma, breast cancer or renal cancer demonstrated pan-cancer relevance. Together, these findings identify thymic health as a previously unrecognized, tumour-agnostic determinant of immunotherapy efficacy, with potential implications for patient stratification, treatment timing and the development of immune-rejuvenating strategies in precision immuno-oncology.
+SN  - 1476-4687
+UR  - https://doi.org/10.1038/s41586-026-10243-x
+DO  - 10.1038/s41586-026-10243-x
+ID  - Bernatz2026
+ER  - 

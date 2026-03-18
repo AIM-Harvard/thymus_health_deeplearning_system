@@ -1,0 +1,19 @@
+TY  - MISC
+AU  - Prudente, Vasco C G
+AU  - Bernatz, Simon
+AU  - Pai, Suraj
+AU  - Lunetta, Kathryn
+AU  - Birkbak, Nicolai
+AU  - Aerts, Hugo
+TI  - Resources "Thymic health consequences in adults"
+PY  - 2026
+DA  - 2026
+PB  - Zenodo
+AB  - This repository contains the "Thymic Health" scores for the cohorts used
+      in the Nature publication "Thymic health consequences in adults" by
+      Bernatz, S., Prudente, V., Pai, S., et al.. Research using this data
+      should cite the original publication as well as the appropriate citation
+      for the current resource (https://doi.org/10.5281/zenodo.18306999).
+DO  - 10.5281/ZENODO.18306999
+UR  - http://dx.doi.org/10.5281/ZENODO.18306999
+ER  - 
